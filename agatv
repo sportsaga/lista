@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AXN.ES" tvg-name="AXN" tvg-logo="https://i.ibb.co/LZ7hGxd/axn.png" group-title="AGATV" ,E | AXN
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10549
+#EXTINF:-1 tvg-id="AXN.ES" tvg-name="AXN" tvg-logo="https://i.ibb.co/LZ7hGxd/axn.png" group-title="AGATV"n,E | AXN HQ
+http://lobo-tv.live:25461/Gbtv/dxkrSSfxfgs4/10550
